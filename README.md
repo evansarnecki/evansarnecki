@@ -5,7 +5,7 @@ As of today, I begin a multitude of guided projects which have been taken from t
 
 Feel free to view my ongoing projects as I gain real world understanding of utilizing pandas, matplotlib, seaborn & other
 python libraries throughout these projects. I am combining several platforms such as Git (along with Github of course!),
-the command line (using the ubuntu 20.04.2 GNU OS with Windows 10), and Jupyter Notbooks within Anaconda. Because of this,
+the command line (using the ubuntu 20.04.2 GNU OS with Windows 10), and Jupyter Notebooks within Anaconda. Because of this,
 please bare with me if some things aren't viewable or mistakes in my code are made. 
 
 I am excited to begin my Github journey with you all!
